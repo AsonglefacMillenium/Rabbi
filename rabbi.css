@@ -51,6 +51,16 @@ li a:hover {
 
 }
 
+.button-action {
+background-color: teal;
+width: 100px;
+height: 30px;
+color: white;
+tezt-align: center;
+font-weight: bold.
+
+}
+
 .underline{
     background-color: #0a96af;
     width: 100px;
