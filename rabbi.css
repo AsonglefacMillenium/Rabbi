@@ -85,3 +85,14 @@ main {
 iframe {
     margin-left: 20px;
 }
+
+.learn-more{
+text-decoration: none;
+font-size: 20px;
+font-weight:bold;
+padding:30px;
+background-color: black;
+color: white;
+tezt-align: center;
+
+}
